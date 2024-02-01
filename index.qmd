@@ -1,26 +1,18 @@
 ---
-title: La Palma Earthquakes
+title: 서울대학교 논문 작성 연습
 author:
-  - name: Steve Purves
-    orcid: 0000-0002-0760-5497
+  - name: Brian Lee
+    orcid: 0009-0005-3820-2956
     corresponding: true
-    email: steve@curvenote.com
+    email: ptocheia@snu.ac.kr
     roles:
-      - Investigation
-      - Project administration
-      - Software
-      - Visualization
+      - Research
+      - Project Implementation
     affiliations:
-      - Curvenote
-  - name: Rowan Cockett
-    orcid: 0000-0002-7859-8394
-    corresponding: false
-    roles: []
-    affiliations:
-      - Curvenote
+      - SNU
 keywords:
-  - La Palma
-  - Earthquakes
+  - Health Inequity
+  - Gender Inequality
 abstract: |
   In September 2021, a significant jump in seismic activity on the island of La Palma (Canary Islands, Spain) signaled the start of a volcanic crisis that still continues at the time of writing. Earthquake data is continually collected and published by the Instituto Geográphico Nacional (IGN). ...
 plain-language-summary: |
